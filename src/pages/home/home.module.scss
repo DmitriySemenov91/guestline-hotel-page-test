@@ -1,0 +1,23 @@
+.wrapperFilterPart{
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid lightgray;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.wrapperCapacityPart{
+  display: flex;
+}
+
+.typographyPart{
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.select{
+  height: 40px;
+  margin: 0 2rem 0 0.5rem;
+}

@@ -1,0 +1,22 @@
+.root {
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+
+.card {
+  height: 100%;
+}
+
+.cardContent{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.cardInfo {
+  display: flex;
+}
+
+.cardRating{
+  margin-top: -5rem;
+}
